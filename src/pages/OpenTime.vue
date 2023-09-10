@@ -38,7 +38,7 @@
             </span>
         </div>
 
-        <img src="dist/img/back_img01.png" class="back_img" :style="back_img_vue">
+        <img src="~@/assets/back_img01.png" class="back_img" :style="back_img_vue">
     </div>
 </template>
 
