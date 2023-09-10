@@ -24,9 +24,10 @@ const router = new VueRouter({
             path: "/opentime",
             component:
                 OpenTime,
+            alias: 'SeaVue/dist/opentime',
             meta: {
                 router_window_flag: false
-            }
+            },
         },
         {
             path: "/ticket",
