@@ -1,7 +1,7 @@
 <template>
     <div class="ally_containner">
         <div class="alley_visit"  >
-            <img src="~@/assets/kuishinbo_logo.png">
+            <img src="dist/img/kuishinbo_logo.png">
         </div>
 
         <div class="alley_content"  :style="alley_content_vue">
